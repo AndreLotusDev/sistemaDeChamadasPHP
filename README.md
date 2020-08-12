@@ -1,4 +1,4 @@
 # sistemaDeChamadasPHP
-Sistema feito com base nos estudos de PHP, não tem orientação a objetos ainda
+Sistema feito com base nos estudos de PHP, não possui orientação a objetos ainda
 
-Produz chamadas onde o administrador pode visualizar todas elas e o usuario pode visualizar as chamas que ele mesmo criou
+Produz chamadas onde o administrador pode visualizar todas elas; e o usuario pode visualizar as chamadas que ele mesmo criou
